@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <h1>REDUX</h1>
-      <Counter wife={"priya"}/>
+      <Counter Name={"Uday"}/>
     </div>
   );
 }
